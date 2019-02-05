@@ -1,0 +1,12 @@
+.messages {
+
+}
+
+.messages__message {
+  margin-bottom: 5px;
+}
+
+.messages__name {
+  font-style: italic;
+  font-weight: 100;
+}

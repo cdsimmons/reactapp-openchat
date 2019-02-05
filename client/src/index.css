@@ -1,0 +1,19 @@
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+  color: #92a8d1;
+  font-family: Calibri, Helvetica, Arial;
+  background-color: #f7cac9;
+  font-size: 20px;
+}
+
+input {
+  border: none;
+  background-color: white;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 1em;
+  width: 100%;
+}
